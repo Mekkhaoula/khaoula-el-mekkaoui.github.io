@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## About Me
- I'm a Ph.D. Candidate at [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/), [Aalto University](http://www.aalto.fi/en/), working with Prof. [Samuel Kaski](https://people.aalto.fi/samuel.kaski) and Prof. [Pekka Marttinen](https://users.ics.aalto.fi/~pemartti/). I'm interested in ditributed Bayesian learning, federated learning, recently aquired a taste for computational genomics, and many more things related to _Data Science_.
+ I'm a Ph.D. Candidate at [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/), [Aalto University](http://www.aalto.fi/en/), working with Prof. [Samuel Kaski](https://people.aalto.fi/samuel.kaski) and Prof. [Pekka Marttinen](https://users.ics.aalto.fi/~pemartti/). I'm interested in distributed Bayesian learning, federated learning, recently acquired a taste for computational genomics, and many more things related to _Data Science_.
 
 <!-- More about me [here](./more_about_me.html). --> 
 
