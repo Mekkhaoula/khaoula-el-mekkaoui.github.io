@@ -14,7 +14,7 @@ layout: default
 ## Conferences
 3. **Cui, T.**, Marttinen, P., and Kaski, S. (2020). "Learning Global Pairwise Interactions with Bayesian Neural Networks.",_European Conference on Machine Learning (ECML 2020)_ Submitted.-->
 ## Preprint
-1.  **El Mekkaoui, K.**, Blomstedt, P., Mesquita D., and Kaski, S. (2019). "Variance reduction for distributed stochastic gradient MCMC"\[ [Arxiv](https://arxiv.org/abs/2004.11231)\]
+1.  **El Mekkaoui, K.**, Blomstedt, P., Mesquita D., and Kaski, S. (2019). "Variance reduction for distributed stochastic gradient MCMC"\[[Arxiv](https://arxiv.org/abs/2004.11231)\]
 
 ## Workshops
 1. **El Mekkaoui, K.**, Blomstedt, P., Mesquita D., and Kaski, S. (2019). "Towards federated stochastic gradient Langevin dynamics" _NeurIPS 2019 Workshop on Federated Learning for User Privacy and Data Confidentiality_,.
