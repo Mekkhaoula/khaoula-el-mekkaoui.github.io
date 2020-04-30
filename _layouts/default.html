@@ -45,7 +45,7 @@
         </h1>
         
         {% if site.logo %}
-          <img src="../assets/img/khaoula.png" alt="Logo" />
+          <img src="{{site.logo | /assets/img/khaoula.png}}" alt="Logo" />
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
