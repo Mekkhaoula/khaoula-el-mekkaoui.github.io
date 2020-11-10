@@ -3,16 +3,10 @@ layout: default
 ---
 
 ## About Me
- I'm a Ph.D. Candidate at [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/), [Aalto University](http://www.aalto.fi/en/), working with Prof. [Samuel Kaski](https://people.aalto.fi/samuel.kaski) and Prof. [Pekka Marttinen](https://users.ics.aalto.fi/~pemartti/). I'm interested in distributed Bayesian learning, federated learning, recently acquired a taste for computational genomics, and many more things related to _Data Science_.
+ I'm a Ph.D. Candidate at [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/), [Aalto University](http://www.aalto.fi/en/), working with Prof. [Samuel Kaski](https://people.aalto.fi/samuel.kaski). I'm interested in distributed Bayesian learning, federated learning, recently acquired a taste for computational genomics, and many more things related to _Data Science_.
 
 <!-- More about me [here](./more_about_me.html). --> 
 
-
-<!--## Journals
-4. **Cui, T.**, Caravelli, F., and Ududec, C. "Correlations and clustering in wholesale electricity markets." _Physica A: Statistical Mechanics and its Applications_ 492 (2018): 1507-1522.
-
-## Conferences
-3. **Cui, T.**, Marttinen, P., and Kaski, S. (2020). "Learning Global Pairwise Interactions with Bayesian Neural Networks.",_European Conference on Machine Learning (ECML 2020)_ Submitted.-->
 ## Preprint
 1.  **El Mekkaoui, K.**, Blomstedt, P., Mesquita D., and Kaski, S. (2020). "Variance reduction for distributed stochastic gradient MCMC"\[[Arxiv](https://arxiv.org/abs/2004.11231)\]
 
@@ -28,7 +22,7 @@ layout: default
 ## Advising
 **Bachelor Thesis**:
 1. Niemensivu, Jaakko. Topic: Federated Learning. (2019)
-
+2. Nguyen, Trang. Topic: Efficient communication in federated learning. (2020)
 
 ## Contact
 **Email**:   
