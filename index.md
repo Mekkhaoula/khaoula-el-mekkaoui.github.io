@@ -20,7 +20,7 @@ layout: default
 
 ## Teaching
 **Teaching Assistant**:
-1. [CS-E4820 - Machine Learning: Advanced Probabilistic Methods](https://mycourses.aalto.fi/course/view.php?id=24365) (2019,2020,2021)
+1. [CS-E4820 - Machine Learning: Advanced Probabilistic Methods](https://mycourses.aalto.fi/course/view.php?id=24365) (2019, 2020, 2021)
 2. [CS-C3160 - Data Science](https://mycourses.aalto.fi/course/view.php?id=24330) (2019)
 3. [CS-E3210 - Machine Learning: Basic Principles](https://mycourses.aalto.fi/course/view.php?id=20569) (2018)
 
