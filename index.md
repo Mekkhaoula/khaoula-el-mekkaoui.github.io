@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## About Me
- I'm a Ph.D. Candidate at [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/), [Aalto University](http://www.aalto.fi/en/), working with Prof. [Samuel Kaski](https://people.aalto.fi/samuel.kaski). I'm interested in distributed Bayesian learning, federated learning, with an aquired taste for computational genomics, specifically building frameworks for finding genetic interactions with the help of Bayesian machine learning.
+ I'm a Ph.D. Candidate at [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/), [Aalto University](http://www.aalto.fi/en/), working with Prof. [Samuel Kaski](https://people.aalto.fi/samuel.kaski). I'm interested in distributed Bayesian learning, federated learning, with an aquired taste for computational genomics, specifically building frameworks for finding genetic interactions with the help of Bayesian modeling.
 
 <!-- More about me [here](./more_about_me.html). --> 
 
