@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mekkhaoula.github.io/khaoula-el-mekkaoui.github.io/sitemap.xml
