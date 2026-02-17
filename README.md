@@ -2,7 +2,7 @@
 
 Personal academic website for Khaoula El Mekkaoui.
 
-🔗 **Live site:** [khaoula-el-mekkaoui.github.io](https://khaoula-el-mekkaoui.github.io)
+🔗 **Live site:** [khaoula-el-mekkaoui.github.io](https://mekkhaoula.github.io/khaoula-el-mekkaoui.github.io/)
 
 ## About
 
